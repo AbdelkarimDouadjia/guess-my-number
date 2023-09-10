@@ -32,6 +32,9 @@ If you want to play again, you can click the "Play Again" button to reset the ga
 
 Feel the excitement before you even start playing! Here's a sneak peek at the Guess the Number game:
 
+![image](https://github.com/AbdelkarimDouadjia/guess-my-number/blob/main/assets/project-preview-1.png)
+![image](https://github.com/AbdelkarimDouadjia/guess-my-number/blob/main/assets/project-preview-2.png)
+![image](https://github.com/AbdelkarimDouadjia/guess-my-number/blob/main/assets/project-preview-3.png)
 
 ## Featues
 
